@@ -1,0 +1,27 @@
+.contact-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .contact-info {
+    display: inline-block;
+    text-align: left;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-info p {
+    margin: 10px 0;
+  }
+  
+  .contact-info a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
